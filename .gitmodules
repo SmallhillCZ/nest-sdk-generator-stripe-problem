@@ -1,0 +1,3 @@
+[submodule "nest-sdk-generator"]
+	path = nest-sdk-generator
+	url = https://github.com/SmallhillCZ/nest-sdk-generator
