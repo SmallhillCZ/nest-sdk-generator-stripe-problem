@@ -95,3 +95,12 @@ export default {
   },
 };
 ```
+
+#### frontend/sdk/package.json
+```json
+{
+  "name": "my-backend-sdk",
+  "version": "0.0.1",
+  "peerDependencies": { "stripe": "^11.1.0" }
+}
+```
