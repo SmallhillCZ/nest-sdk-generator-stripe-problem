@@ -1,0 +1,10 @@
+{
+  "name": "my-backend-sdk",
+  "apiInputPath": ".",
+  "sdkOutput": "../frontend/sdk",
+  "sdkInterfacePath": "../frontend/sdk-interface.ts",
+  "verbose": true,
+  "peerDependencies": {
+    "stripe": "^11.1.0"
+  }
+}
