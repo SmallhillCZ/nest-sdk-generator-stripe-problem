@@ -1,5 +1,9 @@
 # nest-sdk-generator-stripe-problem
 
+## Motivation
+
+https://github.com/lonestone/nest-sdk-generator/issues/9
+
 ## What's changed
 
 ### Config
