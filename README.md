@@ -18,6 +18,7 @@ https://github.com/lonestone/nest-sdk-generator/issues/9
 - `typesToExtract` that are from package listed in `peerDependencies` are skipped
 
 ### Generation
+- packages in peerDependencies get their package import instead of import from `_types`
 - added generation of `package.json` including `name` and `peerDependencies`
 
 
